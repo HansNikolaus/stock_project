@@ -1,0 +1,211 @@
+2025-06-16 22:13:50,560 - ERROR - Failed to retrieve data for AAPL: 'title'
+2025-06-16 22:13:51,146 - ERROR - Failed to retrieve data for NVDA: 'title'
+2025-06-16 22:13:51,881 - ERROR - Failed to retrieve data for META: 'title'
+2025-06-16 22:13:52,425 - ERROR - Failed to retrieve data for AMD: 'title'
+2025-06-16 22:13:53,078 - ERROR - Failed to retrieve data for SOUN: 'title'
+2025-06-16 22:13:53,697 - ERROR - Failed to retrieve data for MSFT: 'title'
+2025-06-16 22:13:54,449 - ERROR - Failed to retrieve data for QCOM: 'title'
+2025-06-16 22:13:55,062 - ERROR - Failed to retrieve data for SMCI: 'title'
+2025-06-16 22:13:55,602 - ERROR - Failed to retrieve data for GOOGL: 'title'
+2025-06-16 22:13:56,315 - ERROR - Failed to retrieve data for QUBT: 'title'
+2025-06-16 22:13:57,636 - ERROR - Failed to retrieve data for AMZN: 'title'
+2025-06-16 22:13:59,688 - ERROR - Failed to retrieve data for ATLC: 'title'
+2025-06-16 22:14:36,346 - ERROR - Failed to retrieve data for AAPL: 'title'
+2025-06-16 22:14:37,015 - ERROR - Failed to retrieve data for NVDA: 'title'
+2025-06-16 22:14:37,716 - ERROR - Failed to retrieve data for META: 'title'
+2025-06-16 22:14:38,247 - ERROR - Failed to retrieve data for AMD: 'title'
+2025-06-16 22:14:38,951 - ERROR - Failed to retrieve data for SOUN: 'title'
+2025-06-16 22:14:39,521 - ERROR - Failed to retrieve data for MSFT: 'title'
+2025-06-16 22:14:40,084 - ERROR - Failed to retrieve data for QCOM: 'title'
+2025-06-16 22:14:40,655 - ERROR - Failed to retrieve data for SMCI: 'title'
+2025-06-16 22:14:41,349 - ERROR - Failed to retrieve data for GOOGL: 'title'
+2025-06-16 22:14:41,880 - ERROR - Failed to retrieve data for QUBT: 'title'
+2025-06-16 22:14:42,510 - ERROR - Failed to retrieve data for SYM: 'title'
+2025-06-16 22:14:43,075 - ERROR - Failed to retrieve data for AMZN: 'title'
+2025-06-16 22:14:44,947 - ERROR - Failed to retrieve data for ATLC: 'title'
+2025-06-16 22:14:45,614 - ERROR - Failed to retrieve data for GC=F: 'title'
+2025-06-16 22:14:46,252 - ERROR - Failed to retrieve data for CL=F: 'title'
+2025-06-16 22:14:46,930 - ERROR - Failed to retrieve data for ^VIX: 'title'
+2025-06-16 22:14:47,531 - ERROR - Failed to retrieve data for ^GSPC: 'title'
+2025-06-16 22:14:48,385 - ERROR - Failed to retrieve data for SHEL: 'title'
+2025-06-16 22:14:49,041 - ERROR - Failed to retrieve data for FSLR: 'title'
+2025-06-16 22:14:49,759 - ERROR - Failed to retrieve data for EGY: 'title'
+2025-06-16 22:14:50,365 - ERROR - Failed to retrieve data for PLTR: 'title'
+2025-06-16 22:14:53,800 - ERROR - Failed to retrieve data for MRK: 'title'
+2025-06-16 22:14:55,289 - ERROR - Failed to retrieve data for PEP: 'title'
+2025-06-16 22:14:56,275 - ERROR - Failed to retrieve data for KO: 'title'
+2025-06-16 22:14:57,192 - ERROR - Failed to retrieve data for WMT: 'title'
+2025-06-16 22:14:58,009 - ERROR - Failed to retrieve data for TGT: 'title'
+2025-06-16 22:14:58,796 - ERROR - Failed to retrieve data for DLTR: 'title'
+2025-06-16 22:14:59,560 - ERROR - Failed to retrieve data for DG: 'title'
+2025-06-16 22:15:00,330 - ERROR - Failed to retrieve data for CBRE: 'title'
+2025-06-16 22:15:10,341 - ERROR - Failed to get ticker 'AVB' reason: Failed to perform, curl: (28) Operation timed out after 10001 milliseconds with 0 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2025-06-16 22:15:11,012 - ERROR - Failed to retrieve data for AVB: 'title'
+2025-06-16 22:15:13,488 - ERROR - Failed to retrieve data for TSM: 'title'
+2025-06-16 22:15:14,177 - ERROR - Failed to retrieve data for WFRD: 'title'
+2025-06-16 22:15:15,304 - ERROR - Failed to retrieve data for BMA: 'title'
+2025-06-16 22:15:16,396 - ERROR - Failed to retrieve data for MU: 'title'
+2025-06-16 22:15:17,126 - ERROR - Failed to retrieve data for CIVI: 'title'
+2025-06-16 22:15:18,243 - ERROR - Failed to retrieve data for SYF: 'title'
+2025-06-16 22:15:19,066 - ERROR - Failed to retrieve data for MTRX: 'title'
+2025-06-16 22:15:19,789 - ERROR - Failed to retrieve data for JKS: 'title'
+2025-06-16 22:15:20,437 - ERROR - Failed to retrieve data for ARM: 'title'
+2025-06-16 22:15:21,122 - ERROR - Failed to retrieve data for AVGO: 'title'
+2025-06-16 22:15:21,840 - ERROR - Failed to retrieve data for CRDO: 'title'
+2025-06-16 22:15:22,566 - ERROR - Failed to retrieve data for KHC: 'title'
+2025-06-16 22:32:02,363 - ERROR - Error processing AAPL: 'title'
+2025-06-16 22:32:02,949 - ERROR - Error processing NVDA: 'title'
+2025-06-16 22:32:03,482 - ERROR - Error processing META: 'title'
+2025-06-16 22:32:04,038 - ERROR - Error processing AMD: 'title'
+2025-06-16 22:32:04,602 - ERROR - Error processing SOUN: 'title'
+2025-06-16 22:32:05,197 - ERROR - Error processing MSFT: 'title'
+2025-06-16 22:32:05,749 - ERROR - Error processing QCOM: 'title'
+2025-06-16 22:32:06,356 - ERROR - Error processing SMCI: 'title'
+2025-06-16 22:32:06,888 - ERROR - Error processing GOOGL: 'title'
+2025-06-16 22:32:07,548 - ERROR - Error processing QUBT: 'title'
+2025-06-16 22:32:08,190 - ERROR - Error processing SYM: 'title'
+2025-06-16 22:32:08,751 - ERROR - Error processing AMZN: 'title'
+2025-06-16 22:32:09,292 - ERROR - Error processing IONQ: 'title'
+2025-06-16 22:32:10,109 - ERROR - Error processing NTAP: 'title'
+2025-06-16 22:32:10,763 - ERROR - Error processing ATLC: 'title'
+2025-06-16 22:32:11,296 - ERROR - Error processing GC=F: 'title'
+2025-06-16 22:32:11,828 - ERROR - Error processing CL=F: 'title'
+2025-06-16 22:32:12,361 - ERROR - Error processing ^VIX: 'title'
+2025-06-16 22:32:12,916 - ERROR - Error processing ^GSPC: 'title'
+2025-06-16 22:32:13,618 - ERROR - Error processing SHEL: 'title'
+2025-06-16 22:32:14,159 - ERROR - Error processing FSLR: 'title'
+2025-06-16 22:32:14,835 - ERROR - Error processing EGY: 'title'
+2025-06-16 22:32:15,406 - ERROR - Error processing PLTR: 'title'
+2025-06-16 22:32:16,092 - ERROR - Error processing BAC: 'title'
+2025-06-16 22:32:16,667 - ERROR - Error processing USB: 'title'
+2025-06-16 22:32:17,242 - ERROR - Error processing GERN: 'title'
+2025-06-16 22:32:17,914 - ERROR - Error processing MRK: 'title'
+2025-06-16 22:32:18,479 - ERROR - Error processing NBIX: 'title'
+2025-06-16 22:32:19,130 - ERROR - Error processing PEP: 'title'
+2025-06-16 22:32:19,742 - ERROR - Error processing KO: 'title'
+2025-06-16 22:32:20,318 - ERROR - Error processing WMT: 'title'
+2025-06-16 22:32:20,951 - ERROR - Error processing TGT: 'title'
+2025-06-16 22:32:21,598 - ERROR - Error processing DLTR: 'title'
+2025-06-16 22:32:22,181 - ERROR - Error processing DG: 'title'
+2025-06-16 22:32:22,745 - ERROR - Error processing CBRE: 'title'
+2025-06-16 22:32:23,371 - ERROR - Error processing AVB: 'title'
+2025-06-16 22:32:23,973 - ERROR - Error processing DLR: 'title'
+2025-06-16 22:32:24,597 - ERROR - Error processing MTDR: 'title'
+2025-06-16 22:32:25,145 - ERROR - Error processing TSM: 'title'
+2025-06-16 22:32:25,716 - ERROR - Error processing WFRD: 'title'
+2025-06-16 22:32:26,302 - ERROR - Error processing BMA: 'title'
+2025-06-16 22:32:26,881 - ERROR - Error processing MU: 'title'
+2025-06-16 22:32:27,437 - ERROR - Error processing CIVI: 'title'
+2025-06-16 22:32:27,998 - ERROR - Error processing SYF: 'title'
+2025-06-16 22:32:28,567 - ERROR - Error processing MTRX: 'title'
+2025-06-16 22:32:29,097 - ERROR - Error processing JKS: 'title'
+2025-06-16 22:32:29,659 - ERROR - Error processing ARM: 'title'
+2025-06-16 22:32:30,230 - ERROR - Error processing AVGO: 'title'
+2025-06-16 22:32:30,847 - ERROR - Error processing CRDO: 'title'
+2025-06-16 22:32:31,520 - ERROR - Error processing KHC: 'title'
+2025-06-17 00:03:30,172 - ERROR - Failed to fetch analyst data for AAPL: FinnhubAPIException(status_code: 401): Invalid API key
+2025-06-17 00:03:30,301 - ERROR - Failed to fetch analyst data for NVDA: FinnhubAPIException(status_code: 401): Invalid API key
+2025-06-17 00:03:30,434 - ERROR - Failed to fetch analyst data for META: FinnhubAPIException(status_code: 401): Invalid API key
+2025-06-17 00:03:30,588 - ERROR - Failed to fetch analyst data for AMD: FinnhubAPIException(status_code: 401): Invalid API key
+2025-06-17 00:03:30,725 - ERROR - Failed to fetch analyst data for SOUN: FinnhubAPIException(status_code: 401): Invalid API key
+2025-06-17 00:03:30,861 - ERROR - Failed to fetch analyst data for MSFT: FinnhubAPIException(status_code: 401): Invalid API key
+2025-06-17 00:03:30,989 - ERROR - Failed to fetch analyst data for QCOM: FinnhubAPIException(status_code: 401): Invalid API key
+2025-06-17 00:03:31,123 - ERROR - Failed to fetch analyst data for SMCI: FinnhubAPIException(status_code: 401): Invalid API key
+2025-06-17 00:03:31,255 - ERROR - Failed to fetch analyst data for GOOGL: FinnhubAPIException(status_code: 401): Invalid API key
+2025-06-17 00:03:31,385 - ERROR - Failed to fetch analyst data for QUBT: FinnhubAPIException(status_code: 401): Invalid API key
+2025-06-17 00:03:31,525 - ERROR - Failed to fetch analyst data for SYM: FinnhubAPIException(status_code: 401): Invalid API key
+2025-06-17 00:03:31,675 - ERROR - Failed to fetch analyst data for AMZN: FinnhubAPIException(status_code: 401): Invalid API key
+2025-06-17 00:03:31,797 - ERROR - Failed to fetch analyst data for IONQ: FinnhubAPIException(status_code: 401): Invalid API key
+2025-06-17 00:03:31,933 - ERROR - Failed to fetch analyst data for NTAP: FinnhubAPIException(status_code: 401): Invalid API key
+2025-06-17 00:03:32,053 - ERROR - Failed to fetch analyst data for ATLC: FinnhubAPIException(status_code: 401): Invalid API key
+2025-06-17 00:03:32,197 - ERROR - Failed to fetch analyst data for GC=F: FinnhubAPIException(status_code: 401): Invalid API key
+2025-06-17 00:03:32,329 - ERROR - Failed to fetch analyst data for CL=F: FinnhubAPIException(status_code: 401): Invalid API key
+2025-06-17 00:03:32,459 - ERROR - Failed to fetch analyst data for ^VIX: FinnhubAPIException(status_code: 401): Invalid API key
+2025-06-17 00:03:32,587 - ERROR - Failed to fetch analyst data for ^GSPC: FinnhubAPIException(status_code: 401): Invalid API key
+2025-06-17 00:03:32,719 - ERROR - Failed to fetch analyst data for SHEL: FinnhubAPIException(status_code: 401): Invalid API key
+2025-06-17 00:03:32,847 - ERROR - Failed to fetch analyst data for FSLR: FinnhubAPIException(status_code: 401): Invalid API key
+2025-06-17 00:03:32,971 - ERROR - Failed to fetch analyst data for EGY: FinnhubAPIException(status_code: 401): Invalid API key
+2025-06-17 00:03:33,128 - ERROR - Failed to fetch analyst data for PLTR: FinnhubAPIException(status_code: 401): Invalid API key
+2025-06-17 00:03:33,262 - ERROR - Failed to fetch analyst data for BAC: FinnhubAPIException(status_code: 401): Invalid API key
+2025-06-17 00:03:33,391 - ERROR - Failed to fetch analyst data for USB: FinnhubAPIException(status_code: 401): Invalid API key
+2025-06-17 00:03:33,523 - ERROR - Failed to fetch analyst data for GERN: FinnhubAPIException(status_code: 401): Invalid API key
+2025-06-17 00:03:33,650 - ERROR - Failed to fetch analyst data for MRK: FinnhubAPIException(status_code: 401): Invalid API key
+2025-06-17 00:03:33,780 - ERROR - Failed to fetch analyst data for NBIX: FinnhubAPIException(status_code: 401): Invalid API key
+2025-06-17 00:03:33,908 - ERROR - Failed to fetch analyst data for PEP: FinnhubAPIException(status_code: 401): Invalid API key
+2025-06-17 00:03:34,047 - ERROR - Failed to fetch analyst data for KO: FinnhubAPIException(status_code: 401): Invalid API key
+2025-06-17 00:03:34,173 - ERROR - Failed to fetch analyst data for WMT: FinnhubAPIException(status_code: 401): Invalid API key
+2025-06-17 00:03:34,317 - ERROR - Failed to fetch analyst data for TGT: FinnhubAPIException(status_code: 401): Invalid API key
+2025-06-17 00:03:34,447 - ERROR - Failed to fetch analyst data for DLTR: FinnhubAPIException(status_code: 401): Invalid API key
+2025-06-17 00:03:34,583 - ERROR - Failed to fetch analyst data for DG: FinnhubAPIException(status_code: 401): Invalid API key
+2025-06-17 00:03:34,707 - ERROR - Failed to fetch analyst data for CBRE: FinnhubAPIException(status_code: 401): Invalid API key
+2025-06-17 00:03:34,843 - ERROR - Failed to fetch analyst data for AVB: FinnhubAPIException(status_code: 401): Invalid API key
+2025-06-17 00:03:34,983 - ERROR - Failed to fetch analyst data for DLR: FinnhubAPIException(status_code: 401): Invalid API key
+2025-06-17 00:03:35,135 - ERROR - Failed to fetch analyst data for MTDR: FinnhubAPIException(status_code: 401): Invalid API key
+2025-06-17 00:03:35,273 - ERROR - Failed to fetch analyst data for TSM: FinnhubAPIException(status_code: 401): Invalid API key
+2025-06-17 00:03:35,407 - ERROR - Failed to fetch analyst data for WFRD: FinnhubAPIException(status_code: 401): Invalid API key
+2025-06-17 00:03:35,556 - ERROR - Failed to fetch analyst data for BMA: FinnhubAPIException(status_code: 401): Invalid API key
+2025-06-17 00:03:35,686 - ERROR - Failed to fetch analyst data for MU: FinnhubAPIException(status_code: 401): Invalid API key
+2025-06-17 00:03:35,810 - ERROR - Failed to fetch analyst data for CIVI: FinnhubAPIException(status_code: 401): Invalid API key
+2025-06-17 00:03:35,958 - ERROR - Failed to fetch analyst data for SYF: FinnhubAPIException(status_code: 401): Invalid API key
+2025-06-17 00:03:36,086 - ERROR - Failed to fetch analyst data for MTRX: FinnhubAPIException(status_code: 401): Invalid API key
+2025-06-17 00:03:36,218 - ERROR - Failed to fetch analyst data for JKS: FinnhubAPIException(status_code: 401): Invalid API key
+2025-06-17 00:03:36,352 - ERROR - Failed to fetch analyst data for ARM: FinnhubAPIException(status_code: 401): Invalid API key
+2025-06-17 00:03:36,481 - ERROR - Failed to fetch analyst data for AVGO: FinnhubAPIException(status_code: 401): Invalid API key
+2025-06-17 00:03:36,610 - ERROR - Failed to fetch analyst data for CRDO: FinnhubAPIException(status_code: 401): Invalid API key
+2025-06-17 00:03:36,732 - ERROR - Failed to fetch analyst data for KHC: FinnhubAPIException(status_code: 401): Invalid API key
+2025-06-17 00:04:40,921 - ERROR - Failed to fetch analyst data for AAPL: FinnhubAPIException(status_code: 403): You don't have access to this resource.
+2025-06-17 00:04:41,184 - ERROR - Failed to fetch analyst data for NVDA: FinnhubAPIException(status_code: 403): You don't have access to this resource.
+2025-06-17 00:04:41,445 - ERROR - Failed to fetch analyst data for META: FinnhubAPIException(status_code: 403): You don't have access to this resource.
+2025-06-17 00:04:41,706 - ERROR - Failed to fetch analyst data for AMD: FinnhubAPIException(status_code: 403): You don't have access to this resource.
+2025-06-17 00:04:41,970 - ERROR - Failed to fetch analyst data for SOUN: FinnhubAPIException(status_code: 403): You don't have access to this resource.
+2025-06-17 00:04:42,242 - ERROR - Failed to fetch analyst data for MSFT: FinnhubAPIException(status_code: 403): You don't have access to this resource.
+2025-06-17 00:04:42,511 - ERROR - Failed to fetch analyst data for QCOM: FinnhubAPIException(status_code: 403): You don't have access to this resource.
+2025-06-17 00:04:42,786 - ERROR - Failed to fetch analyst data for SMCI: FinnhubAPIException(status_code: 403): You don't have access to this resource.
+2025-06-17 00:04:43,046 - ERROR - Failed to fetch analyst data for GOOGL: FinnhubAPIException(status_code: 403): You don't have access to this resource.
+2025-06-17 00:04:43,309 - ERROR - Failed to fetch analyst data for QUBT: FinnhubAPIException(status_code: 403): You don't have access to this resource.
+2025-06-17 00:04:43,589 - ERROR - Failed to fetch analyst data for SYM: FinnhubAPIException(status_code: 403): You don't have access to this resource.
+2025-06-17 00:04:43,846 - ERROR - Failed to fetch analyst data for AMZN: FinnhubAPIException(status_code: 403): You don't have access to this resource.
+2025-06-17 00:04:44,111 - ERROR - Failed to fetch analyst data for IONQ: FinnhubAPIException(status_code: 403): You don't have access to this resource.
+2025-06-17 00:04:44,399 - ERROR - Failed to fetch analyst data for NTAP: FinnhubAPIException(status_code: 403): You don't have access to this resource.
+2025-06-17 00:04:44,665 - ERROR - Failed to fetch analyst data for ATLC: FinnhubAPIException(status_code: 403): You don't have access to this resource.
+2025-06-17 00:04:44,934 - ERROR - Failed to fetch analyst data for GC=F: FinnhubAPIException(status_code: 403): You don't have access to this resource.
+2025-06-17 00:04:45,190 - ERROR - Failed to fetch analyst data for CL=F: FinnhubAPIException(status_code: 403): You don't have access to this resource.
+2025-06-17 00:04:45,450 - ERROR - Failed to fetch analyst data for ^VIX: FinnhubAPIException(status_code: 403): You don't have access to this resource.
+2025-06-17 00:04:45,703 - ERROR - Failed to fetch analyst data for ^GSPC: FinnhubAPIException(status_code: 403): You don't have access to this resource.
+2025-06-17 00:04:45,959 - ERROR - Failed to fetch analyst data for SHEL: FinnhubAPIException(status_code: 403): You don't have access to this resource.
+2025-06-17 00:04:46,216 - ERROR - Failed to fetch analyst data for FSLR: FinnhubAPIException(status_code: 403): You don't have access to this resource.
+2025-06-17 00:04:46,483 - ERROR - Failed to fetch analyst data for EGY: FinnhubAPIException(status_code: 403): You don't have access to this resource.
+2025-06-17 00:04:46,742 - ERROR - Failed to fetch analyst data for PLTR: FinnhubAPIException(status_code: 403): You don't have access to this resource.
+2025-06-17 00:04:46,998 - ERROR - Failed to fetch analyst data for BAC: FinnhubAPIException(status_code: 403): You don't have access to this resource.
+2025-06-17 00:04:47,271 - ERROR - Failed to fetch analyst data for USB: FinnhubAPIException(status_code: 403): You don't have access to this resource.
+2025-06-17 00:04:47,543 - ERROR - Failed to fetch analyst data for GERN: FinnhubAPIException(status_code: 403): You don't have access to this resource.
+2025-06-17 00:04:47,819 - ERROR - Failed to fetch analyst data for MRK: FinnhubAPIException(status_code: 403): You don't have access to this resource.
+2025-06-17 00:04:48,093 - ERROR - Failed to fetch analyst data for NBIX: FinnhubAPIException(status_code: 403): You don't have access to this resource.
+2025-06-17 00:04:48,365 - ERROR - Failed to fetch analyst data for PEP: FinnhubAPIException(status_code: 403): You don't have access to this resource.
+2025-06-17 00:04:48,627 - ERROR - Failed to fetch analyst data for KO: FinnhubAPIException(status_code: 403): You don't have access to this resource.
+2025-06-17 00:04:48,913 - ERROR - Failed to fetch analyst data for WMT: FinnhubAPIException(status_code: 403): You don't have access to this resource.
+2025-06-17 00:04:49,173 - ERROR - Failed to fetch analyst data for TGT: FinnhubAPIException(status_code: 403): You don't have access to this resource.
+2025-06-17 00:04:49,426 - ERROR - Failed to fetch analyst data for DLTR: FinnhubAPIException(status_code: 403): You don't have access to this resource.
+2025-06-17 00:04:49,677 - ERROR - Failed to fetch analyst data for DG: FinnhubAPIException(status_code: 403): You don't have access to this resource.
+2025-06-17 00:04:49,938 - ERROR - Failed to fetch analyst data for CBRE: FinnhubAPIException(status_code: 403): You don't have access to this resource.
+2025-06-17 00:04:50,219 - ERROR - Failed to fetch analyst data for AVB: FinnhubAPIException(status_code: 403): You don't have access to this resource.
+2025-06-17 00:04:50,487 - ERROR - Failed to fetch analyst data for DLR: FinnhubAPIException(status_code: 403): You don't have access to this resource.
+2025-06-17 00:04:50,751 - ERROR - Failed to fetch analyst data for MTDR: FinnhubAPIException(status_code: 403): You don't have access to this resource.
+2025-06-17 00:04:51,015 - ERROR - Failed to fetch analyst data for TSM: FinnhubAPIException(status_code: 403): You don't have access to this resource.
+2025-06-17 00:04:51,262 - ERROR - Failed to fetch analyst data for WFRD: FinnhubAPIException(status_code: 403): You don't have access to this resource.
+2025-06-17 00:04:51,527 - ERROR - Failed to fetch analyst data for BMA: FinnhubAPIException(status_code: 403): You don't have access to this resource.
+2025-06-17 00:04:51,799 - ERROR - Failed to fetch analyst data for MU: FinnhubAPIException(status_code: 403): You don't have access to this resource.
+2025-06-17 00:04:52,051 - ERROR - Failed to fetch analyst data for CIVI: FinnhubAPIException(status_code: 403): You don't have access to this resource.
+2025-06-17 00:04:52,340 - ERROR - Failed to fetch analyst data for SYF: FinnhubAPIException(status_code: 403): You don't have access to this resource.
+2025-06-17 00:04:52,593 - ERROR - Failed to fetch analyst data for MTRX: FinnhubAPIException(status_code: 403): You don't have access to this resource.
+2025-06-17 00:04:52,865 - ERROR - Failed to fetch analyst data for JKS: FinnhubAPIException(status_code: 403): You don't have access to this resource.
+2025-06-17 00:04:53,144 - ERROR - Failed to fetch analyst data for ARM: FinnhubAPIException(status_code: 403): You don't have access to this resource.
+2025-06-17 00:04:53,399 - ERROR - Failed to fetch analyst data for AVGO: FinnhubAPIException(status_code: 403): You don't have access to this resource.
+2025-06-17 00:04:53,702 - ERROR - Failed to fetch analyst data for CRDO: FinnhubAPIException(status_code: 403): You don't have access to this resource.
+2025-06-17 00:04:53,963 - ERROR - Failed to fetch analyst data for KHC: FinnhubAPIException(status_code: 403): You don't have access to this resource.
+2025-06-17 13:14:04,767 - ERROR - Error reading tickers.csv: [Errno 2] No such file or directory: 'tickers.csv'
+2025-06-18 02:10:20,720 - ERROR - Error processing AAPL: Failed to perform, curl: (35) Recv failure: Connection was reset. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2025-06-18 02:10:34,782 - ERROR - Error processing NVDA: Failed to perform, curl: (35) Recv failure: Connection was reset. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2025-06-18 02:10:54,504 - ERROR - Error processing META: Failed to perform, curl: (35) TLS connect error: error:00000000:invalid library (0):OPENSSL_internal:invalid library (0). See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2025-06-19 18:53:05,218 - ERROR - Error processing AMD: Failed to perform, curl: (7) Failed to connect to query1.finance.yahoo.com port 443 after 2137 ms: Could not connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2025-06-19 18:53:09,616 - ERROR - Error processing SOUN: Failed to perform, curl: (7) Failed to connect to query2.finance.yahoo.com port 443 after 4258 ms: Could not connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
