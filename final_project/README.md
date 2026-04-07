@@ -99,7 +99,3 @@ Start with your CSV files containing tickers and URLs.
 **Action:**
 - Populates **`simply_wallstreet_facts`** table in SQL Server.  
 
----
-
-## Workflow Summary Diagram (Optional)
-
